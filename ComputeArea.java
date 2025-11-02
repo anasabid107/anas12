@@ -19,8 +19,10 @@ public class ComputeArea {
         radius=10;
         area=radius*radius*3.1412;
         System.out.println("Area="+area);
+        System.out.println("Hello Anas");
                 
         // TODO code application logic here
     }
     
 }
+
